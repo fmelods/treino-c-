@@ -1,0 +1,4 @@
+﻿  coracao.cpp
+E:\pessoal\projetos\c++\coracao\coracao\coracao\coracao.cpp(8,34): warning C4305: '-=': truncamento de 'double' para 'float'
+E:\pessoal\projetos\c++\coracao\coracao\coracao\coracao.cpp(9,38): warning C4305: '+=': truncamento de 'double' para 'float'
+  coracao.vcxproj -> E:\pessoal\projetos\c++\coracao\coracao\x64\Debug\coracao.exe
